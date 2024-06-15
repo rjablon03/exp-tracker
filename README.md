@@ -1,3 +1,3 @@
-# exp-tracker
+# Portfolio
 
-Expense tracking app with AWS
+Portfolio website highlight myself and my experience
